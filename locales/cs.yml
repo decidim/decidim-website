@@ -230,6 +230,10 @@ cs:
   partners:
     notice: Loga spolupracujících subjektů jsou duševním vlastnictvím příslušných držitelů autorských práv. Nespadají pod licenci <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons By-SA</a>, kterou je ošetřen zbytek obsahu webu.
   modules:
+    description: Popis
+    explanation: Používáním modulů můžete rozšířit funkce Decidim a sdílet je s ostatními. Umožňují vám snadno aktualizovat v budoucnu. Podívejte se na <a href="https://docs.decidim.org/en/develop/modules/">dokumentaci pro vytvoření vašeho vlastního modulu</a>.
+    image: Obrázek
+    name: Jméno
     type:
       community: Komunita
       auth: Autorizace
